@@ -1,0 +1,26 @@
+.next-button {
+    background-color: blue;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 16px;
+    border-radius: 2px;
+    float: right;
+    cursor: pointer;
+}
+
+
+.quiz-header {
+    font-size: 18px;
+    color: orange;
+    font-weight: bold;
+}
+
+p {
+    display: inline-block;
+    font-size: 18px;
+}
+
+.right {
+    float: right;
+}
